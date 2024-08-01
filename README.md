@@ -15,6 +15,7 @@ Clear Interval - cancela o intervalo.
 <br>
 Set Attribute da interface Element define o valor de um atributo no elemento especificado.
 </p>
-
+<br>
+<img src="./src/Captura de tela 2024-08-01 202429.png">
 
 
